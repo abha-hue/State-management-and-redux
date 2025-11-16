@@ -1,0 +1,744 @@
+{
+  "movies": [
+    {
+      "name": "Eternal Echoes",
+      "genres": [
+        "Romance",
+        "Animation"
+      ]
+    },
+    {
+      "name": "Shadowbound",
+      "genres": [
+        "Mystery",
+        "Fantasy"
+      ]
+    },
+    {
+      "name": "Neon Horizon",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ]
+    },
+    {
+      "name": "Crimson Dusk",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Thriller"
+      ]
+    },
+    {
+      "name": "Silent Mirage",
+      "genres": [
+        "Action",
+        "Mystery"
+      ]
+    },
+    {
+      "name": "Forgotten Realm",
+      "genres": [
+        "Mystery",
+        "Animation",
+        "Thriller"
+      ]
+    },
+    {
+      "name": "Midnight Pulse",
+      "genres": [
+        "Crime",
+        "Mystery",
+        "Animation"
+      ]
+    },
+    {
+      "name": "Golden Requiem",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Drama"
+      ]
+    },
+    {
+      "name": "Phantom Drift",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Thriller"
+      ]
+    },
+    {
+      "name": "Broken Fate",
+      "genres": [
+        "Mystery",
+        "Romance",
+        "Animation"
+      ]
+    },
+    {
+      "name": "Azure Skies",
+      "genres": [
+        "Adventure",
+        "Thriller"
+      ]
+    },
+    {
+      "name": "Iron Heist",
+      "genres": [
+        "Sci-Fi",
+        "Thriller"
+      ]
+    },
+    {
+      "name": "Violet Storm",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ]
+    },
+    {
+      "name": "Echoes of Tomorrow",
+      "genres": [
+        "Romance",
+        "Animation",
+        "Comedy"
+      ]
+    },
+    {
+      "name": "Solstice Run",
+      "genres": [
+        "Horror",
+        "Drama",
+        "Adventure"
+      ]
+    },
+    {
+      "name": "Obsidian Path",
+      "genres": [
+        "Adventure",
+        "Romance",
+        "Crime"
+      ]
+    },
+    {
+      "name": "Final Exodus",
+      "genres": [
+        "Crime",
+        "Drama"
+      ]
+    },
+    {
+      "name": "Shattered Truth",
+      "genres": [
+        "Adventure",
+        "Crime",
+        "Action"
+      ]
+    },
+    {
+      "name": "Infinite Loop",
+      "genres": [
+        "Animation",
+        "Thriller",
+        "Comedy"
+      ]
+    },
+    {
+      "name": "Quantum Dive",
+      "genres": [
+        "Animation",
+        "Horror",
+        "Drama"
+      ]
+    },
+    {
+      "name": "Stormfall",
+      "genres": [
+        "Horror",
+        "Sci-Fi",
+        "Mystery"
+      ]
+    },
+    {
+      "name": "Frostline",
+      "genres": [
+        "Romance",
+        "Mystery",
+        "Comedy"
+      ]
+    },
+    {
+      "name": "Lunar Code",
+      "genres": [
+        "Fantasy",
+        "Mystery",
+        "Thriller"
+      ]
+    },
+    {
+      "name": "The Last Ember",
+      "genres": [
+        "Romance",
+        "Crime"
+      ]
+    },
+    {
+      "name": "Hollow Kingdom",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ]
+    },
+    {
+      "name": "Riftwalker",
+      "genres": [
+        "Comedy",
+        "Thriller"
+      ]
+    },
+    {
+      "name": "Blaze Protocol",
+      "genres": [
+        "Sci-Fi",
+        "Drama",
+        "Action"
+      ]
+    },
+    {
+      "name": "Dreamcatcher",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Mystery"
+      ]
+    },
+    {
+      "name": "Serpent's Edge",
+      "genres": [
+        "Romance",
+        "Comedy",
+        "Thriller"
+      ]
+    },
+    {
+      "name": "Titan's Mark",
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "Horror"
+      ]
+    },
+    {
+      "name": "Emerald Haven",
+      "genres": [
+        "Comedy",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "name": "Astral Frontier",
+      "genres": [
+        "Drama",
+        "Action",
+        "Animation"
+      ]
+    },
+    {
+      "name": "Pulsebreaker",
+      "genres": [
+        "Horror",
+        "Romance"
+      ]
+    },
+    {
+      "name": "Hidden Oath",
+      "genres": [
+        "Mystery",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "name": "Nightfall Rising",
+      "genres": [
+        "Sci-Fi",
+        "Romance"
+      ]
+    },
+    {
+      "name": "Scarlet Orbit",
+      "genres": [
+        "Thriller",
+        "Sci-Fi",
+        "Comedy"
+      ]
+    },
+    {
+      "name": "Glass Empire",
+      "genres": [
+        "Fantasy",
+        "Crime"
+      ]
+    },
+    {
+      "name": "Feral Awakening",
+      "genres": [
+        "Comedy",
+        "Thriller",
+        "Adventure"
+      ]
+    },
+    {
+      "name": "The Lost Voyage",
+      "genres": [
+        "Fantasy",
+        "Mystery"
+      ]
+    },
+    {
+      "name": "Radiant Zero",
+      "genres": [
+        "Romance",
+        "Adventure"
+      ]
+    },
+    {
+      "name": "Wraithfire",
+      "genres": [
+        "Animation",
+        "Crime",
+        "Drama"
+      ]
+    },
+    {
+      "name": "The Silver Bastion",
+      "genres": [
+        "Fantasy",
+        "Horror",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "name": "Parallel Fate",
+      "genres": [
+        "Crime",
+        "Horror",
+        "Action"
+      ]
+    },
+    {
+      "name": "Crimson Spiral",
+      "genres": [
+        "Horror",
+        "Action",
+        "Thriller"
+      ]
+    },
+    {
+      "name": "Starforge",
+      "genres": [
+        "Drama",
+        "Comedy",
+        "Romance"
+      ]
+    },
+    {
+      "name": "Eclipse Drift",
+      "genres": [
+        "Sci-Fi",
+        "Drama"
+      ]
+    },
+    {
+      "name": "Mystic Tide",
+      "genres": [
+        "Drama",
+        "Thriller"
+      ]
+    },
+    {
+      "name": "The Iron Nomad",
+      "genres": [
+        "Horror",
+        "Action",
+        "Thriller"
+      ]
+    },
+    {
+      "name": "Shattered Nova",
+      "genres": [
+        "Thriller",
+        "Adventure"
+      ]
+    },
+    {
+      "name": "Frozen Paradox",
+      "genres": [
+        "Thriller",
+        "Horror",
+        "Crime"
+      ]
+    },
+    {
+      "name": "Echo Valley",
+      "genres": [
+        "Animation",
+        "Fantasy"
+      ]
+    },
+    {
+      "name": "Phantom Roads",
+      "genres": [
+        "Drama",
+        "Horror"
+      ]
+    },
+    {
+      "name": "The Ember Directive",
+      "genres": [
+        "Adventure",
+        "Horror",
+        "Mystery"
+      ]
+    },
+    {
+      "name": "Celestial Divide",
+      "genres": [
+        "Action",
+        "Drama",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "name": "Ocean of Whispers",
+      "genres": [
+        "Sci-Fi",
+        "Drama"
+      ]
+    },
+    {
+      "name": "Driftpoint",
+      "genres": [
+        "Adventure",
+        "Mystery",
+        "Thriller"
+      ]
+    },
+    {
+      "name": "Harbinger Dawn",
+      "genres": [
+        "Comedy",
+        "Sci-Fi",
+        "Thriller"
+      ]
+    },
+    {
+      "name": "Oblivion Gate",
+      "genres": [
+        "Drama",
+        "Action"
+      ]
+    },
+    {
+      "name": "Midnight Covenant",
+      "genres": [
+        "Action",
+        "Thriller",
+        "Adventure"
+      ]
+    },
+    {
+      "name": "Barrierfall",
+      "genres": [
+        "Romance",
+        "Horror",
+        "Thriller"
+      ]
+    },
+    {
+      "name": "Aetherwind",
+      "genres": [
+        "Fantasy",
+        "Mystery"
+      ]
+    },
+    {
+      "name": "The Silent Vanguard",
+      "genres": [
+        "Sci-Fi",
+        "Romance",
+        "Thriller"
+      ]
+    },
+    {
+      "name": "Delta Haven",
+      "genres": [
+        "Fantasy",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "name": "Cinderfall",
+      "genres": [
+        "Adventure",
+        "Thriller"
+      ]
+    },
+    {
+      "name": "Broken Synthesis",
+      "genres": [
+        "Sci-Fi",
+        "Fantasy"
+      ]
+    },
+    {
+      "name": "Starless Gate",
+      "genres": [
+        "Romance",
+        "Comedy"
+      ]
+    },
+    {
+      "name": "Nova Ascend",
+      "genres": [
+        "Adventure",
+        "Horror"
+      ]
+    },
+    {
+      "name": "The Forgotten Pulse",
+      "genres": [
+        "Animation",
+        "Mystery",
+        "Comedy"
+      ]
+    },
+    {
+      "name": "Ashen Horizon",
+      "genres": [
+        "Sci-Fi",
+        "Thriller"
+      ]
+    },
+    {
+      "name": "Infinite Ember",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Thriller"
+      ]
+    },
+    {
+      "name": "Duality Shift",
+      "genres": [
+        "Comedy",
+        "Thriller"
+      ]
+    },
+    {
+      "name": "Nightforge",
+      "genres": [
+        "Fantasy",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "name": "Crystal Verge",
+      "genres": [
+        "Sci-Fi",
+        "Action",
+        "Horror"
+      ]
+    },
+    {
+      "name": "Rogue Frequency",
+      "genres": [
+        "Adventure",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "name": "Storm Chasers",
+      "genres": [
+        "Crime",
+        "Romance",
+        "Drama"
+      ]
+    },
+    {
+      "name": "Shattered Halo",
+      "genres": [
+        "Horror",
+        "Adventure"
+      ]
+    },
+    {
+      "name": "Prime Ascension",
+      "genres": [
+        "Comedy",
+        "Action",
+        "Romance"
+      ]
+    },
+    {
+      "name": "The Last Vanguard",
+      "genres": [
+        "Fantasy",
+        "Crime"
+      ]
+    },
+    {
+      "name": "Fallen Equinox",
+      "genres": [
+        "Thriller",
+        "Crime"
+      ]
+    },
+    {
+      "name": "Veil of Echoes",
+      "genres": [
+        "Comedy",
+        "Horror"
+      ]
+    },
+    {
+      "name": "Shadow Drift",
+      "genres": [
+        "Action",
+        "Horror"
+      ]
+    },
+    {
+      "name": "Neon Exodus",
+      "genres": [
+        "Mystery",
+        "Drama",
+        "Action"
+      ]
+    },
+    {
+      "name": "Echo Chamber",
+      "genres": [
+        "Comedy",
+        "Action"
+      ]
+    },
+    {
+      "name": "Golden Horizon",
+      "genres": [
+        "Sci-Fi",
+        "Drama",
+        "Fantasy"
+      ]
+    },
+    {
+      "name": "Binary Skies",
+      "genres": [
+        "Thriller",
+        "Comedy",
+        "Adventure"
+      ]
+    },
+    {
+      "name": "Rift of Dawn",
+      "genres": [
+        "Animation",
+        "Action",
+        "Fantasy"
+      ]
+    },
+    {
+      "name": "The Final Prototype",
+      "genres": [
+        "Thriller",
+        "Fantasy"
+      ]
+    },
+    {
+      "name": "Ion Tempest",
+      "genres": [
+        "Drama",
+        "Adventure",
+        "Action"
+      ]
+    },
+    {
+      "name": "Astral Mirage",
+      "genres": [
+        "Mystery",
+        "Sci-Fi",
+        "Action"
+      ]
+    },
+    {
+      "name": "Broken Code",
+      "genres": [
+        "Horror",
+        "Comedy",
+        "Drama"
+      ]
+    },
+    {
+      "name": "Scarlet Renegade",
+      "genres": [
+        "Adventure",
+        "Thriller",
+        "Romance"
+      ]
+    },
+    {
+      "name": "Dreamfall",
+      "genres": [
+        "Horror",
+        "Animation"
+      ]
+    },
+    {
+      "name": "Hidden Matrix",
+      "genres": [
+        "Romance",
+        "Drama"
+      ]
+    },
+    {
+      "name": "Luminous Fate",
+      "genres": [
+        "Comedy",
+        "Crime"
+      ]
+    },
+    {
+      "name": "Eternal Sparks",
+      "genres": [
+        "Mystery",
+        "Sci-Fi",
+        "Thriller"
+      ]
+    },
+    {
+      "name": "Cinder Protocol",
+      "genres": [
+        "Adventure",
+        "Action",
+        "Romance"
+      ]
+    },
+    {
+      "name": "Black Sun Rising",
+      "genres": [
+        "Adventure",
+        "Sci-Fi",
+        "Thriller"
+      ]
+    },
+    {
+      "name": "Silent Ice",
+      "genres": [
+        "Adventure",
+        "Animation",
+        "Horror"
+      ]
+    }
+  ]
+}
